@@ -1,12 +1,7 @@
-/* This is a sample Java Program
+public class Example_master {
 
-*/
-
-class Example {
-public static void main(String args[]) {
-	System.out.println("Java drives the web");
+		public static void main(String args[]) {
+			System.out.println("Java drives the web");
+		}
 }
-}
-//
-//another change - adding master removing the new code again
 
